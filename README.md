@@ -59,7 +59,7 @@ flowchart LR
 Нужен Python 3.10 или новее.
 
 ```bash
-git clone <url>
+git clone https://github.com/Fanticx/tg-deleted-watcher.git
 cd tg-deleted-watcher
 python -m venv .venv
 source .venv/bin/activate    # Windows: .venv\Scripts\activate
